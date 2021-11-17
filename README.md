@@ -1,0 +1,1 @@
+# calculating-the-diagonal-perimeter-and-area-of-a-rectangle
